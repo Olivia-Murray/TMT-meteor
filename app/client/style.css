@@ -1,0 +1,85 @@
+.top-menu {
+  background-color: #2d2c33 !important;
+  box-shadow: none;
+  border: none;
+  border-radius: 0 !important;
+  color: white;
+  height: 70px;
+  margin-bottom: 0 !important;
+}
+
+.tmtlogo {
+  height: 70px;
+  width: 266px;
+  padding: 0;
+}
+
+
+
+.ui.container {
+  width: 1300px;
+  margin-left: 0;
+}
+
+.ui.borderless.second-menu.menu {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 64px;
+  box-shadow: none;
+  border: 0;
+  background-color: #f5f5fa;
+}
+
+.ui.container {
+  width: 1300px;
+  margin-left: 0;
+}
+
+.topitem {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.centerImage {
+  height: 500px !important;
+  background-image: url(https://www.tmt.org/assets/tmt_night-f8dcc52845a9c98a47edfefe8c554babc8b54abc20767a2e27642bffc32692cc.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  color: white;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 4rem;
+  line-height: 110%;
+  margin: 2.1rem 0 1.68rem 0;
+}
+
+h2 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+  line-height: 42px;
+}
+
+.row {
+  padding-top: 300px;
+}
+
+
+.footer-background {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://www.tmt.org/assets/tmt-footer-77904adcad55c896570dff40061dff5d688faeca4684d7af52963da42ffdd8ef.jpg") center center no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.ui.column.grid.container {
+  width: 1300px !important;
+  margin-left: 0;
+}
+
+
+.address {
+  color: #FFAB40;
+}
+
